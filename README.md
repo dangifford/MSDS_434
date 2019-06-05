@@ -1,7 +1,7 @@
-# myrepo
+# README
 [![CircleCI](https://circleci.com/gh/dangifford/MSDS_434.svg?style=svg)](https://circleci.com/gh/dangifford/MSDS_434)
 
-This is an example repo of a how to create a Data Science focused Python project.
+This is a copy of a repo from Noah Gift. Reproduced for MSDS 434 @ Northwestern
 
 A few things to do with this project:
 
