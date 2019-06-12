@@ -1,5 +1,5 @@
 # README
-[![CircleCI](https://circleci.com/gh/dangifford/MSDS_434.svg?style=svg)](https://circleci.com/gh/dangifford/MSDS_434)
+[![CircleCI](https://circleci.com/gh/dangifford/Northwestern.svg?style=svg)](https://circleci.com/gh/dangifford/Northwestern)
 
 This is a copy of a repo from Noah Gift. Reproduced for MSDS 434 @ Northwestern
 
